@@ -6,6 +6,6 @@ It is lightweight. The only dependency is `requests`, and even it can be avoided
 
 Example usage is in the `example.ipynb` Jupyter notebook.
 
-Additional examples showing what the data looks like and how to use it are in `wrangling_examples.ipynb`. TO run this, you will need `pandas`.
+Additional examples showing what the data looks like and how to use it are in `wrangling_examples.ipynb`. To run this, you will need `pandas`.
 
 I've debugged this extensively, but use at your own risk. I won't be able to answer questions or otherwise provide support.
